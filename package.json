@@ -1,0 +1,37 @@
+{
+    "author": "Quincy's Esoteric Apps",
+    "dependencies": {},
+    "keywords": [],
+    "name": "revolutionarytimekeeping",
+    "pebble": {
+        "displayName": "French Republican Time and Calendar",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/modern_decimal_background.png",
+                    "name": "WATCH_DECIMAL_BACKGROUND_IMAGE",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "0b04dfe0-9e6e-44d1-be00-4200e8df754d",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
